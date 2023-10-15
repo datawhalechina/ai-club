@@ -16,6 +16,12 @@ copyright: "Copyright &copy; 2022 - 2023 Datawhale AI Club Team"
 nav:
     - 简介: index.md
     - 关于 Datawhale: About/datawhale.md
+    - 成员: 
+        - 现有成员: Members/Members-links.md
+        - 清华大学: Members/THU.md
+        - 浙江大学: Members/ZJU.md
+        - 厦门大学: Members/WISER-CLUB.md
+        - 闽江学院: Members/MJU.md
 
 theme:
     name: material
