@@ -1,6 +1,5 @@
 # 高校联盟成员
 
-
 <style>
 * {
   box-sizing: border-box;
@@ -57,8 +56,8 @@ hr.narrow {margin: 0 10px}
 }
 </style>
 
+---
 高校联盟已经汇聚了一群高校社团、组织、实验室等。下面为已合作组织的介绍和联系方式
-
 
 <div class="row">
   <div class="column">
@@ -66,7 +65,7 @@ hr.narrow {margin: 0 10px}
       <p><strong>清华大学大数据协会</strong></p>
       <hr class = "narrow">
       <p>清华大学大数据协会是清华大学深圳国际研究生院的协会。现联系人为：XXX</p>
-      <p><a href="./aaa.md"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 加入方式</a></p>
+      <p><a href="./THU.md"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 加入方式</a></p>
     </div>
   </div>
 
@@ -75,17 +74,18 @@ hr.narrow {margin: 0 10px}
       <p><strong>浙江大学人工智能协会</strong></p>
       <hr class = "narrow">
       <p>浙江大学人工智能协会是浙大的协会。现联系人为：XXX</p>
-      <p><a href="./prepare"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 加入方式</a></p>
+      <p><a href="./ZJU.md"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 加入方式</a></p>
     </div>
   </div>
 </div>
+
 <div class="row">
   <div class="column">
     <div class="card">
       <p><strong>厦门大学WISER CLUB</strong></p>
       <hr class = "narrow">
       <p>厦门大学WISER CLUB是厦大的社团组织。现联系人为：XXX</p>
-      <p><a href="./afterad"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 加入方式</a></p>
+      <p><a href="./WISER_CLUB.md"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 加入方式</a></p>
     </div>
   </div>
 
@@ -94,7 +94,7 @@ hr.narrow {margin: 0 10px}
       <p><strong>闽江学院数学建模协会</strong></p>
       <hr class = "narrow">
       <p>闽江学院数学建模协会是闽江学院的协会。现联系人为：XXX</p>
-      <p><a href="./cases"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 加入方式</a></p>
+      <p><a href="./MJU.md"><span class="twemoji"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M13.22 19.03a.75.75 0 0 1 0-1.06L18.19 13H3.75a.75.75 0 0 1 0-1.5h14.44l-4.97-4.97a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l6.25 6.25a.75.75 0 0 1 0 1.06l-6.25 6.25a.75.75 0 0 1-1.06 0Z"></path></svg></span> 加入方式</a></p>
     </div>
   </div>
 </div>
@@ -103,8 +103,8 @@ hr.narrow {margin: 0 10px}
 <div class="row">
   <div class="fullcolumn">
     <div class="card">
-        <p>目前手册正在向已毕业或即将毕业的飞跃同仁 <strong>征集稿件</strong>，希望有意愿贡献自己案例的同学在阅读 <a href="cases/example/">案例模板</a> 后参照其格式通过 <a href="#2">贡献方式</a> 提交稿件。手册编辑组期待各位加入！</p>
-        <div align="center"><a class="md-button" href="./cases/example"><strong>Join Us and Leave Your Story!</strong></a></div>
+        <p>高校联盟持续欢迎各大高校组织 <strong>加入联盟</strong></p>
+        <div align="center"><a class="md-button" href="https://mp.weixin.qq.com/s/dndXMp52neU6J5lBjlvvQw"><strong>Join Us</strong></a></div>
     </div>
   </div>
 </div>
